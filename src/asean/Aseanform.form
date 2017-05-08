@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jRadioButton1"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JMenu" name="jMenu16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jMenu16"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JMenuBar" name="jMenuBar2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu15">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="jMenu17">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JMenuItem" name="jMenuItem20">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jMenuItem20"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JMenuItem" name="jMenuItem135">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jMenuItem135"/>
+      </Properties>
+    </Component>
+    <Menu class="javax.swing.JMenuBar" name="jMenuBar1">
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Currency"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <SubComponents>
+            <Menu class="javax.swing.JMenu" name="TH">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="TH_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="TH_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="BN">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="BN_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BN_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="CB_CN">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CB_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CB_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="ID">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ID_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ID_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="L">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="L_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="L_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="L_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="ML">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="ML_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ML_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="PL">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="PL_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="PL_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="VN">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_ml">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_mlActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="VN_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VN_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="M">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="M_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="M_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="M_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="SK">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="SK_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SK_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="JP">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="JKP_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JKP_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="JP_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="JP_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="CN">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_KR">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_KRActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="CN_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CN_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+            <Menu class="javax.swing.JMenu" name="KR">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xe40;&#xe01;&#xe32;&#xe2b;&#xe25;&#xe35; (Korea )"/>
+              </Properties>
+              <SubComponents>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_JP">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe0d;&#xe35;&#xe48;&#xe1b;&#xe38;&#xe48;&#xe19; (Japan)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_JPActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_CN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe08;&#xe35;&#xe19; (China)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_CNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_BN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1a;&#xe23;&#xe39;&#xe44;&#xe19; &#xe14;&#xe32;&#xe23;&#xe38;&#xe2a;&#xe0b;&#xe32;&#xe25;&#xe32;&#xe21; (Brunei Darussalam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_BNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_TH">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe44;&#xe17;&#xe22; (Thailand)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_THActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_CB">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe01;&#xe31;&#xe21;&#xe1e;&#xe39;&#xe0a;&#xe32; (Cambodia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_CBActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_L">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe25;&#xe32;&#xe27; (Laos)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_LActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_ML">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe21;&#xe32;&#xe40;&#xe25;&#xe40;&#xe0b;&#xe35;&#xe22; (Malaysia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_MLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_PL">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe1f;&#xe34;&#xe25;&#xe34;&#xe1b;&#xe1b;&#xe34;&#xe19;&#xe2a;&#xe4c; (Philippines)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_PLActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_M">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe21;&#xe35;&#xe22;&#xe19;&#xe21;&#xe32;&#xe23;&#xe4c; &#xe2b;&#xe23;&#xe37;&#xe2d;&#xe1e;&#xe21;&#xe48;&#xe32; (Myanmar)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_MActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_VN">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe40;&#xe27;&#xe35;&#xe22;&#xe14;&#xe19;&#xe32;&#xe21; (Vietnam)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_VNActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_SK">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2a;&#xe34;&#xe07;&#xe04;&#xe42;&#xe1b;&#xe23;&#xe4c; (Singapore)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_SKActionPerformed"/>
+                  </Events>
+                </MenuItem>
+                <MenuItem class="javax.swing.JMenuItem" name="KR_ID">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" value="&#xe2d;&#xe34;&#xe19;&#xe42;&#xe14;&#xe19;&#xe35;&#xe40;&#xe0b;&#xe35;&#xe22; (Indonesia)"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="KR_IDActionPerformed"/>
+                  </Events>
+                </MenuItem>
+              </SubComponents>
+            </Menu>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="jMenuBar1"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-67,0,0,3,11"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel_Start">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe08;&#xe33;&#xe19;&#xe27;&#xe19;&#xe40;&#xe07;&#xe34;&#xe19;&#xe02;&#xe2d;&#xe07;&#xe2a;&#xe01;&#xe38;&#xe25;&#xe17;&#xe35;&#xe21;&#xe35; :"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="120" y="130" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel_Destination">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xe08;&#xe33;&#xe19;&#xe27;&#xe19;&#xe40;&#xe07;&#xe34;&#xe19;&#xe02;&#xe2d;&#xe07;&#xe2a;&#xe01;&#xe38;&#xe25;&#xe17;&#xe35;&#xe48;&#xe15;&#xe49;&#xe2d;&#xe07;&#xe01;&#xe32;&#xe23;&#xe17;&#xe23;&#xe32;&#xe1a; :"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="210" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_Start">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="130" width="330" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField_Destination">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="cc" type="rgb"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="380" y="210" width="330" height="30"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="300" y="280" width="150" height="60"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
